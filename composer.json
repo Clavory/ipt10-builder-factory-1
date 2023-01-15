@@ -1,0 +1,15 @@
+{
+    "name": "ryzen/builderfactory1",
+    "autoload": {
+        "psr-4": {
+            "Ryzen\\Builderfactory1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Clavory",
+            "email": "allapitan.nathaniel@auf.edu.ph"
+        }
+    ],
+    "require": {}
+}
